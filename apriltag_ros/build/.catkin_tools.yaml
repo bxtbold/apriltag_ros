@@ -1,0 +1,6 @@
+devel_space: /home/bxt123/Desktop/apriltag_ros/apriltag_ros/devel
+install: false
+install_space: /home/bxt123/Desktop/apriltag_ros/apriltag_ros/install
+profile: default
+source_space: /home/bxt123/Desktop/apriltag_ros/apriltag_ros/src
+workspace: /home/bxt123/Desktop/apriltag_ros/apriltag_ros
